@@ -26,6 +26,7 @@ const getFormattedWeatherData = async (city, units = 'metric') => {
         speed, 
         country, 
         name,
+        
     };
 
 };
